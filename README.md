@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hello, I am R.Srikesh.Nice to meet you 👋 <br />
+I love Anime and Music :star_struck: <br />
+Looking for help to [Manage my profile README](https://guides.github.com/features/mastering-markdown/) <br />
+I am a Studying at [Amrita Vishwa Vidyapeetham,Amritapuri](https://www.amrita.edu/campus/amritapuri) <br />
+📫 How to reach me: [Gmail](mailto:srikeshravikumar@gmail.com) or Discord ```drunken_betch#2852```
+
 
 <!--
 **rSrikesh/rSrikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
