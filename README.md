@@ -1,13 +1,13 @@
 ![gif](https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif) <br />
 ### Hi there 👋
 Hello, I am R.Srikesh.Nice to meet you 👋 <br />
-I love Anime and Music :star_struck: <br />
-Looking for help to [Manage my profile README](https://guides.github.com/features/mastering-markdown/) <br />
 I am a Studying at [Amrita Vishwa Vidyapeetham,Amritapuri](https://www.amrita.edu/campus/amritapuri) <br />
-📫 How to reach me: [Gmail](mailto:srikeshravikumar@gmail.com) or Discord ```drunken_betch#2852```<br />
+<!-- I love Anime and Music :star_struck: <br />
+Looking for help to [Manage my profile README](https://guides.github.com/features/mastering-markdown/) <br />
+📫 How to reach me: [Gmail](mailto:srikeshravikumar@gmail.com) or Discord ```drunken_betch#2852```<br /> -->
 <br />
 
-![img](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/PNG/footer.png) <br />
+<!-- ![img](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/PNG/footer.png) <br /> -->
 ![gif1](https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif)
 <hr />
 <div align="center">
